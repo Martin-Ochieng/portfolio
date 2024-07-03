@@ -11,7 +11,7 @@ To set up and view the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/Martin-Ochieng/portfolio.git
    cd portfolio
 
     Open the index.html file:
@@ -25,8 +25,9 @@ Copyright and License Information
 © 2024 Martin Ochieng
 
 Licensed under the MIT License.
-About Me
 
+
+About Me
 Innovative Software Engineer with 6+ years of experience developing scalable web-based systems, IoT solutions, and data-driven applications. Demonstrated ability to deliver high-quality user experiences and tackle complex problems using big data and AI. Adept at cloud technologies, with a strong focus on sustainability and reducing carbon footprints. Proven track record of collaborating with global teams and driving impactful projects.
 Key Skills
 
