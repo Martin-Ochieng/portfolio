@@ -1,0 +1,32 @@
+.profile-image {
+    width: 200px; /* Adjust the width as needed */
+    height: auto; /* Maintains the aspect ratio */
+    border-radius: 50%; /* Optional: makes the image circular */
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+header img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+section {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 10px;
+}
